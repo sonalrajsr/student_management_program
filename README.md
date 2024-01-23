@@ -11,7 +11,7 @@ Like Name, email, roll number, department, etc.
 
 
 ## Note
-Make sure to activate virtual environment
+Make sure to activate the virtual environment. Install the things that are in 'requirements.txt' in your virtual environment.
 
 ## Run Locally
 
