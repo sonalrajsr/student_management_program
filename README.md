@@ -18,7 +18,7 @@ Make sure to activate virtual environment
 Clone the project
 
 ```bash
-  git clone https://github.com/sonalrajsr/office_empolyee_management_system.git
+  git clone https://github.com/sonalrajsr/student_management_program.git
 ```
 
 Go to the project directory
